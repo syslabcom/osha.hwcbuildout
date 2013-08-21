@@ -33,3 +33,8 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# Don't check this in:
+buildout.cfg
+include
+etc
